@@ -1,9 +1,10 @@
 *.xlsx
 *.csv
 *.docx
-*.png
 *.RData
 *.rda
-frame_*.png
 reporte_libs/
-~
+.DS_Store
+.Rhistory
+frame_*.png
+~$*
